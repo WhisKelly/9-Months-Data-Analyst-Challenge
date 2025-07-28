@@ -1,4 +1,4 @@
-# 🚀 Projet : Devenir Data Analyst en 9 mois – Suivi Personnel
+# 🚀 Data Analyst Challenge : 9 mois de projets Data orientés Marketing, Agriculture & Finance
 
 ## 🌟 À propos du projet
 
@@ -8,7 +8,7 @@ Ce parcours me permet de **renforcer mes compétences en analyse de données** e
 
 Structurée sur **9 mois**, cette roadmap pose des objectifs clairs et progressifs à chaque étape pour maîtriser les outils et méthodes indispensables (Excel,Power BI,SQL,Python,R) et surtout pour apprendre à transformer les données en **insights stratégiques à haute valeur ajoutée**.
 
-Mon ambition est d’être une professionnelle de la donnée **fiable, innovante et agile**, capable de répondre aux besoins réels du marché et des organisations, en anticipant leurs enjeux et en contribuant activement à leur succès grâce à une **analyse de données rigoureuse et orientée business**.
+Mon ambition est d’être une professionnelle de la donnée **fiable, innovante et agile**, capable de répondre aux besoins réels du marché et des organisations, en anticipant leurs enjeux et en contribuant activement à leur succès grâce à une **analyse de données rigoureuse et orientée métier**.
 
 Chaque étape de ce parcours est une brique solide, jalonnée de projets concrets et d’analyses poussées, qui m’aident à passer de la manipulation brute de données à la création de valeur opérationnelle.
 
